@@ -84,3 +84,10 @@ pkg/interface/link-webext/web-ext-artifacts
 *.log
 
 .vercel
+
+# application components
+urbit
+bin/solid.pill
+bin/multi.pill
+bin/ivory.pill
+bin/brass.pill
