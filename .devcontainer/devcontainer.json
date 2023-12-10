@@ -22,7 +22,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "chmod +x .devcontainer/dev-init.sh && .devcontainer/dev-init.sh",
+	"postStartCommand": "chmod +x .devcontainer/dev-init.sh && .devcontainer/dev-init.sh",
 	
 	// "postStartCommand": "curl -L https://urbit.org/install/linux-x86_64/latest | tar xzk --transform='s/.*/urbit/g' && ./urbit",
 
