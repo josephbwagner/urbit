@@ -3,8 +3,8 @@
 
 # Add commands to set up your Urbit development environment
 # For example, start a fake Urbit ship
-echo "Starting fake Urbit ship..."
-urbit -F zod
+# echo "Starting fake Urbit ship..."
+# urbit -F zod
 
 # Want a fresh fake zod?
 # rm -r zod
